@@ -1,0 +1,2 @@
+H:\GameProjects\Varpal\Varpal\VarpalContent\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\WorkingProjects\Varpal\Varpal\VarpalContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,1794 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\Containers\bag.fbx</Source>
+      <Name>Models\Containers\bag</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\bag.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Containers\bag_0.xml</Key>
+        <Value>2012-06-15T11:32:01.3139415-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\bag.images\MGH-Burlap_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\bag.images\MGH-Rope_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Containers\bucket.fbx</Source>
+      <Name>Models\Containers\bucket</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\bucket.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Containers\bucket_0.xml</Key>
+        <Value>2012-06-15T11:32:01.8451915-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\bucket.images\MBS-Plank_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\bucket.images\MBS-Metal_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Misc\firewood.fbx</Source>
+      <Name>Models\Misc\firewood</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Misc\firewood.xnb</Output>
+      <Time>2012-06-15T10:45:50.8451915-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Misc\firewood_0.xml</Key>
+        <Value>2012-06-15T11:32:03.9389415-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Misc\firewood.images\MB-FireWood_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Player\sword1.fbx</Source>
+      <Name>Models\Player\sword1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Player\sword1.xnb</Output>
+      <Time>2012-06-15T10:45:50.8608165-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Player\sword1_0.xml</Key>
+        <Value>2012-06-15T11:32:04.5951915-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Player\sword1.images\MBS-Metal1_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Player\sword1.images\MBS-Metal_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Player\sword1.images\MBS-Leather_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Player\playerhead.fbx</Source>
+      <Name>Models\Player\playerhead</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Player\playerhead.xnb</Output>
+      <Time>2012-06-15T10:45:50.8920665-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Player\playerhead_0.xml</Key>
+        <Value>2012-06-15T11:32:06.2670665-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Player\playerhead.images\TSFHsutton_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Tools\toolrack.fbx</Source>
+      <Name>Models\Tools\toolrack</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Tools\toolrack.xnb</Output>
+      <Time>2012-06-15T10:45:51.0951915-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Tools\toolrack_0.xml</Key>
+        <Value>2012-06-15T11:32:08.4701915-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Tools\toolrack.images\MBS-Wood_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Tools\toolrack.images\MBS-Metal_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Walls\wall1.fbx</Source>
+      <Name>Models\Walls\wall1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Walls\wall1.xnb</Output>
+      <Time>2012-06-15T10:45:51.1576915-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Walls\wall1_0.xml</Key>
+        <Value>2012-06-15T11:32:11.1264415-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Walls\wall1.images\rhsac_columnpillar_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Walls\wall1.images\rhsac_column_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Walls\wall1.images\rhsac_archcenter_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Walls\wall1.images\rhsac_wall_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\barn1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Buildings\barn1_0.xml</Output>
+      <Time>2012-06-15T10:45:50.7358165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\barn1.images\MB-Wood.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Wood_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7358165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\barn1.images\MB-Cooble.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Cooble_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7358165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\barn1.images\MB-Plaster.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Plaster_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7358165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\barn1.images\MB-Stone.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Stone_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7358165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\barn1.images\MB-FloorBoards.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-FloorBoards_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7358165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\barn1.images\MB-Plank.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Plank_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7358165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\barn1.images\MB-CobbleBorder.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-CobbleBorder_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7358165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\barn1.images\MB-Stairs-Glass.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Stairs-Glass_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7358165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\barn1.images\MB-Metal.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Metal_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7358165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\barn1.images\MB-Thatch.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Thatch_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7358165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\barn1.images\MB-Hay.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Hay_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7358165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\barn1.images\MB-HayStrips.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-HayStrips_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7358165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\barn1.images\MB-Hay1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Hay1_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7358165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\Inn1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Buildings\Inn1_0.xml</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\Inn1.images\MI-StoneDetail.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-StoneDetail_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\Inn1.images\MI-Plaster.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-Plaster_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\Inn1.images\MI-Stone.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-Stone_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\Inn1.images\MI-Plank.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-Plank_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\Inn1.images\MI-Wood.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-Wood_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\Inn1.images\MI-Thatch.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-Thatch_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\Inn1.images\MI-Metal.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-Metal_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\Inn1.images\MI-Details.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-Details_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Containers\bag.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Containers\bag_0.xml</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Containers\bag.images\MGH-Burlap.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\bag.images\MGH-Burlap_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Containers\bag.images\MGH-Rope.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\bag.images\MGH-Rope_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Containers\barrel.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Containers\barrel_0.xml</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Containers\barrel.images\MGH-Plank.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\barrel.images\MGH-Plank_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Containers\barrel.images\MGH-Metal.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\barrel.images\MGH-Metal_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Containers\bucket.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Containers\bucket_0.xml</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Containers\bucket.images\MBS-Plank.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\bucket.images\MBS-Plank_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Containers\bucket.images\MBS-Metal.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\bucket.images\MBS-Metal_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Containers\chest1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Containers\chest1_0.xml</Output>
+      <Time>2012-06-15T10:45:50.7670665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Containers\chest1.images\MI-Metal.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\chest1.images\MI-Metal_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7670665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Containers\chest1.images\MI-Wood.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\chest1.images\MI-Wood_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.7670665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Containers\Jug1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Containers\Jug1_0.xml</Output>
+      <Time>2012-06-15T10:45:50.7670665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Containers\Jug1.images\MI-Pottery.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\Jug1.images\MI-Pottery_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.8451915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Containers\Jug1.images\MI-Cork.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\Jug1.images\MI-Cork_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.8451915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\ground.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Ground\ground_0.xml</Output>
+      <Time>2012-06-15T10:45:50.8451915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\ground.images\MI-Cooble.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\ground.images\MI-Cooble_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.8451915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Misc\bundle.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Misc\bundle_0.xml</Output>
+      <Time>2012-06-15T10:45:50.8451915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Misc\bundle.images\MGH-Fabric.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Misc\bundle.images\MGH-Fabric_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.8451915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Misc\bundle.images\MGH-Leather.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Misc\bundle.images\MGH-Leather_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.8451915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Misc\firewood.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Misc\firewood_0.xml</Output>
+      <Time>2012-06-15T10:45:50.8451915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Misc\firewood.images\MB-FireWood.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Misc\firewood.images\MB-FireWood_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.8451915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Player\sword1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Player\sword1_0.xml</Output>
+      <Time>2012-06-15T10:45:50.8608165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Player\sword1.images\MBS-Metal1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Player\sword1.images\MBS-Metal1_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.8608165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Player\sword1.images\MBS-Metal.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Player\sword1.images\MBS-Metal_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.8608165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Player\sword1.images\MBS-Leather.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Player\sword1.images\MBS-Leather_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.8608165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Player\playerhead.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Player\playerhead_0.xml</Output>
+      <Time>2012-06-15T10:45:50.8920665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Player\playerhead.images\TSFHsutton.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Player\playerhead.images\TSFHsutton_0.xnb</Output>
+      <Time>2012-06-15T10:45:50.8608165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Tools\anvil3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Tools\anvil3_0.xml</Output>
+      <Time>2012-06-15T10:45:51.0795665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Tools\anvil3.images\MBS-Stump.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Tools\anvil3.images\MBS-Stump_0.xnb</Output>
+      <Time>2012-06-15T10:45:51.0795665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Tools\anvil3.images\MBS-Metal.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Tools\anvil3.images\MBS-Metal_0.xnb</Output>
+      <Time>2012-06-15T10:45:51.0795665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Tools\anvil3.images\MBS-Wood.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Tools\anvil3.images\MBS-Wood_0.xnb</Output>
+      <Time>2012-06-15T10:45:51.0951915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Tools\toolrack.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Tools\toolrack_0.xml</Output>
+      <Time>2012-06-15T10:45:51.0951915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Tools\toolrack.images\MBS-Wood.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Tools\toolrack.images\MBS-Wood_0.xnb</Output>
+      <Time>2012-06-15T10:45:51.0951915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Tools\toolrack.images\MBS-Metal.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Tools\toolrack.images\MBS-Metal_0.xnb</Output>
+      <Time>2012-06-15T10:45:51.0951915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Tools\workbench.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Tools\workbench_0.xml</Output>
+      <Time>2012-06-15T10:45:51.0951915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Tools\workbench.images\MBS-Wood.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Tools\workbench.images\MBS-Wood_0.xnb</Output>
+      <Time>2012-06-15T10:45:51.0951915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Walls\barricade.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Walls\barricade_0.xml</Output>
+      <Time>2012-06-15T10:45:51.0951915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Walls\barricade.images\MGH-Rope.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Walls\barricade.images\MGH-Rope_0.xnb</Output>
+      <Time>2012-06-15T10:45:51.0951915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Walls\barricade.images\MGH-Wood.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Walls\barricade.images\MGH-Wood_0.xnb</Output>
+      <Time>2012-06-15T10:45:51.1108165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Walls\wall1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Walls\wall1_0.xml</Output>
+      <Time>2012-06-15T10:45:51.1576915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Walls\wall1.images\rhsac_columnpillar.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Walls\wall1.images\rhsac_columnpillar_0.xnb</Output>
+      <Time>2012-06-15T10:45:51.1889415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Walls\wall1.images\rhsac_column.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Walls\wall1.images\rhsac_column_0.xnb</Output>
+      <Time>2012-06-15T10:45:51.1733165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Walls\wall1.images\rhsac_archcenter.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Walls\wall1.images\rhsac_archcenter_0.xnb</Output>
+      <Time>2012-06-15T10:45:51.1733165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Walls\wall1.images\rhsac_wall.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Walls\wall1.images\rhsac_wall_0.xnb</Output>
+      <Time>2012-06-15T10:45:51.2045665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\ground4.fbx</Source>
+      <Name>Models\Ground\ground4</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\ground4.xnb</Output>
+      <Time>2012-06-15T15:15:24.4233165-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Ground\ground4_0.xml</Key>
+        <Value>2012-06-15T15:16:19.3920665-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\ground4.images\MBS-Cooble_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Ground\ground5.fbx</Source>
+      <Name>Models\Ground\ground5</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\ground5.xnb</Output>
+      <Time>2012-06-15T15:15:43.0639415-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Ground\ground5_0.xml</Key>
+        <Value>2012-06-15T15:16:20.0014415-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\ground5.images\MGH-Cobble_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Ground\ground3.fbx</Source>
+      <Name>Models\Ground\ground3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\ground3.xnb</Output>
+      <Time>2012-06-15T15:16:04.6889415-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Ground\ground3_0.xml</Key>
+        <Value>2012-06-15T15:16:20.2201915-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\ground3.images\MB-Cooble_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Ground\ground4.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Ground\ground4_0.xml</Output>
+      <Time>2012-06-15T15:15:24.4233165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\ground4.images\MBS-Cooble.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\ground4.images\MBS-Cooble_0.xnb</Output>
+      <Time>2012-06-15T15:15:33.2826915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\ground5.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Ground\ground5_0.xml</Output>
+      <Time>2012-06-15T15:15:43.0639415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\ground5.images\MGH-Cobble.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\ground5.images\MGH-Cobble_0.xnb</Output>
+      <Time>2012-06-15T15:15:48.8451915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\ground3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Ground\ground3_0.xml</Output>
+      <Time>2012-06-15T15:16:04.6889415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\ground3.images\MB-Cooble.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\ground3.images\MB-Cooble_0.xnb</Output>
+      <Time>2012-06-15T20:02:20.8295665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Ground\hill_0.xml</Output>
+      <Time>2012-06-15T15:20:24.5326915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGGroundTex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGGroundTex_0.xnb</Output>
+      <Time>2012-06-15T15:16:42.3139415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGRockTex2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGRockTex2_0.xnb</Output>
+      <Time>2012-06-15T15:16:42.7201915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGRockTex4.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGRockTex4_0.xnb</Output>
+      <Time>2012-06-15T15:16:42.7670665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGRockTex3.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGRockTex3_0.xnb</Output>
+      <Time>2012-06-15T15:16:42.7201915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGRockTex1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGRockTex1_0.xnb</Output>
+      <Time>2012-06-15T15:16:42.7201915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGTreeTex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGTreeTex_0.xnb</Output>
+      <Time>2012-06-15T15:16:42.7826915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGVineTex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGVineTex_0.xnb</Output>
+      <Time>2012-06-15T15:21:43.1264415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGBenchTex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGBenchTex_0.xnb</Output>
+      <Time>2012-06-15T15:22:38.2826915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGRustyMetal.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGRustyMetal_0.xnb</Output>
+      <Time>2012-06-15T15:16:42.7670665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGLeafTex3.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGLeafTex3_0.xnb</Output>
+      <Time>2012-06-15T15:23:55.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGLeafTex2.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGLeafTex2_0.xnb</Output>
+      <Time>2012-06-15T15:24:43.7045665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGLeafTex1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGLeafTex1_0.xnb</Output>
+      <Time>2012-06-15T15:25:27.0170665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGBranchTex.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGBranchTex_0.xnb</Output>
+      <Time>2012-06-15T15:16:42.3139415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGMossTex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGMossTex_0.xnb</Output>
+      <Time>2012-06-15T15:18:33.4389415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGFernBushTex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGFernBushTex_0.xnb</Output>
+      <Time>2012-06-15T15:28:40.5639415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGPavingTex1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGPavingTex1_0.xnb</Output>
+      <Time>2012-06-15T15:30:40.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGPavingTex2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGPavingTex2_0.xnb</Output>
+      <Time>2012-06-15T15:31:17.1108165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGPavingTex3.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGPavingTex3_0.xnb</Output>
+      <Time>2012-06-15T15:32:19.4545665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGPavingTex4.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGPavingTex4_0.xnb</Output>
+      <Time>2012-06-15T15:32:03.6108165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGFernTex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGFernTex_0.xnb</Output>
+      <Time>2012-06-15T15:33:55.7514415-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGGrassTex.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGGrassTex_0.xnb</Output>
+      <Time>2012-06-15T15:34:59.8608165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.images\3duLGFenceLog.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGFenceLog_0.xnb</Output>
+      <Time>2012-06-15T15:35:50.3608165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground\ground.fbx</Source>
+      <Name>Models\Ground\ground</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\ground.xnb</Output>
+      <Time>2012-06-15T10:45:50.8451915-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Ground\ground_0.xml</Key>
+        <Value>2012-06-15T11:32:03.3608165-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\ground.images\MI-Cooble_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Containers\Jug1.fbx</Source>
+      <Name>Models\Containers\Jug1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.1</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\Jug1.xnb</Output>
+      <Time>2012-06-15T10:45:50.7670665-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Containers\Jug1_0.xml</Key>
+        <Value>2012-06-15T11:32:02.9233165-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\Jug1.images\MI-Pottery_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\Jug1.images\MI-Cork_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Tools\anvil3.fbx</Source>
+      <Name>Models\Tools\anvil3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.1</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Tools\anvil3.xnb</Output>
+      <Time>2012-06-15T10:45:51.0795665-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Tools\anvil3_0.xml</Key>
+        <Value>2012-06-15T11:32:07.6108165-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Tools\anvil3.images\MBS-Stump_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Tools\anvil3.images\MBS-Metal_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Tools\anvil3.images\MBS-Wood_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Tools\workbench.fbx</Source>
+      <Name>Models\Tools\workbench</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.1</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Tools\workbench.xnb</Output>
+      <Time>2012-06-15T10:45:51.0951915-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Tools\workbench_0.xml</Key>
+        <Value>2012-06-15T11:32:08.8295665-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Tools\workbench.images\MBS-Wood_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Walls\barricade.fbx</Source>
+      <Name>Models\Walls\barricade</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.1</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Walls\barricade.xnb</Output>
+      <Time>2012-06-15T10:45:51.0951915-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Walls\barricade_0.xml</Key>
+        <Value>2012-06-15T11:32:09.2514415-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Walls\barricade.images\MGH-Rope_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Walls\barricade.images\MGH-Wood_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures2D\Boxes\Status.png</Source>
+      <Name>Textures2D\Boxes\Status</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Textures2D\Boxes\Status.xnb</Output>
+      <Time>2012-06-15T17:05:55.7826915-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\barn1.fbx</Source>
+      <Name>Models\Buildings\barn1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.1</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.xnb</Output>
+      <Time>2012-06-15T10:45:50.7358165-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Buildings\barn1_0.xml</Key>
+        <Value>2012-06-15T11:31:54.4545665-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Wood_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Cooble_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Plaster_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Stone_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-FloorBoards_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Plank_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-CobbleBorder_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Stairs-Glass_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Metal_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Thatch_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Hay_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-HayStrips_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\barn1.images\MB-Hay1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Buildings\Inn1.fbx</Source>
+      <Name>Models\Buildings\Inn1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.1</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Buildings\Inn1_0.xml</Key>
+        <Value>2012-06-15T11:31:58.8139415-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-StoneDetail_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-Plaster_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-Stone_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-Plank_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-Wood_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-Thatch_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-Metal_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Buildings\Inn1.images\MI-Details_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Containers\barrel.fbx</Source>
+      <Name>Models\Containers\barrel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.1</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\barrel.xnb</Output>
+      <Time>2012-06-15T10:45:50.7514415-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Containers\barrel_0.xml</Key>
+        <Value>2012-06-15T11:32:01.4858165-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\barrel.images\MGH-Plank_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\barrel.images\MGH-Metal_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Containers\chest1.fbx</Source>
+      <Name>Models\Containers\chest1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.1</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\chest1.xnb</Output>
+      <Time>2012-06-15T10:45:50.7670665-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Containers\chest1_0.xml</Key>
+        <Value>2012-06-15T11:32:02.5170665-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\chest1.images\MI-Metal_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Containers\chest1.images\MI-Wood_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Misc\bundle.fbx</Source>
+      <Name>Models\Misc\bundle</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.1</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Misc\bundle.xnb</Output>
+      <Time>2012-06-15T10:45:50.8451915-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Misc\bundle_0.xml</Key>
+        <Value>2012-06-15T11:32:03.6733165-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Misc\bundle.images\MGH-Fabric_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Misc\bundle.images\MGH-Leather_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Ground\hill.fbx</Source>
+      <Name>Models\Ground\hill</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.xnb</Output>
+      <Time>2012-06-15T15:20:24.5326915-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Ground\hill_0.xml</Key>
+        <Value>2012-06-15T15:20:54.6420665-07:00</Value>
+      </Dependency>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGGroundTex_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGRockTex2_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGRockTex4_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGRockTex3_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGRockTex1_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGTreeTex_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGVineTex_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGBenchTex_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGRustyMetal_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGLeafTex3_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGLeafTex2_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGLeafTex1_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGBranchTex_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGMossTex_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGFernBushTex_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGPavingTex1_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGPavingTex2_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGPavingTex3_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGPavingTex4_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGFernTex_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGGrassTex_0.xnb</Request>
+      <Request>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\Models\Ground\hill.images\3duLGFenceLog_0.xnb</Request>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>H:\WorkingProjects\Varpal\Varpal\VarpalContent\</RootDirectory>
+      <LoggerRootDirectory>H:\WorkingProjects\Varpal\Varpal\Varpal\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\WorkingProjects\Varpal\Varpal\VarpalContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>H:\WorkingProjects\Varpal\Varpal\Built\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>I:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>I:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>I:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>I:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>I:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>I:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>I:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-12-24T10:08:06.801625-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

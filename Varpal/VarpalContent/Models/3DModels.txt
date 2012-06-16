@@ -1,0 +1,6 @@
+All *.fbx Objects are made with Daz3D, exported as *.fbx, each model
+has a folder containing images it uses as textures, you add
+both the fbx file and the image directory to the models folder, 
+then click the foler that contains the images and click remove from project
+so all we see if the model file, but the directory actually contains
+more images for it.
